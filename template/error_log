@@ -1,0 +1,2 @@
+[19-Feb-2015 06:33:22 America/Chicago] PHP Fatal error:  Call to undefined function get_option() in /home2/naveen/public_html/dev/artcentre/wp-content/plugins/mailing-group-module/template/mg_settingstab.php on line 2
+[19-Feb-2015 06:33:30 America/Chicago] PHP Fatal error:  Call to undefined function get_option() in /home2/naveen/public_html/dev/artcentre/wp-content/plugins/mailing-group-module/template/mg_settingstab.php on line 2
