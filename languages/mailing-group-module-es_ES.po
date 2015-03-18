@@ -1,0 +1,487 @@
+# English translations for PACKAGE package.
+# Copyright (C) 2012 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: mailing-group-module 1.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-11-11 21:33-0400\n"
+"PO-Revision-Date: 2014-11-27 14:19+0530\n"
+"Last-Translator: sanford <sanford@123789.org>\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-Poedit-SourceCharset: iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.6.9\n"
+"Language: es_ES\n"
+
+#: mg_mailinggrouplist.php:10 (this is a note line)
+msgid "Mailing group has been deleted successfully."
+msgstr "Grupo de correo se ha eliminado correctamente."
+
+#: mg_mailinggrouplist.php:26
+msgid "Mailing Group Manager"
+msgstr "Grupo de Correo Manager"
+
+#: mg_mailinggrouplist.php:30
+msgid "Group Name"
+msgstr "Nombre del grupo"
+
+#: mg_mailinggrouplist.php:31
+msgid "Email Address"
+msgstr "Dirección de correo electrónico"
+
+#: mg_mailinggrouplist.php:31
+msgid "Please enter name."
+msgstr "Introduzca el nombre."
+
+msgid "Actions"
+msgstr "Acciones"
+
+msgid "General Settings"
+msgstr "Configuración General"
+
+msgid "Member Manager"
+msgstr "Administrador Miembros"
+
+msgid "Add Member"
+msgstr "Agregar un miembro"
+
+msgid "Subscription Requests"
+msgstr "Las solicitudes de suscripción"
+
+msgid "Add Subscription Request"
+msgstr "Agregar solicitud de suscripción"
+
+msgid "Send Message"
+msgstr "Enviar Mensaje"
+
+msgid "Messages Manager"
+msgstr "Administrador Mensajes"
+
+msgid "Messages Editor"
+msgstr "Editor Mensajes"
+
+msgid "Add Message"
+msgstr "Añadir mensaje"
+
+msgid "Add Admin Message"
+msgstr "Añadir mensaje del administrador"
+
+msgid "Import User"
+msgstr "Importar Usuario"
+
+msgid "View Message"
+msgstr "Ver mensaje"
+
+msgid "Style Manager"
+msgstr "Gestor de estilos"
+
+msgid "Contact Info"
+msgstr "Información de contacto"
+
+msgid "Help"
+msgstr "Ayuda"
+
+msgid "Mailing Groups"
+msgstr "Grupos de Correo"
+
+msgid "Update Message"
+msgstr "Mensaje de actualización"
+
+msgid "Submit"
+msgstr "Presentar"
+
+msgid "Introduction"
+msgstr "Introducción"
+
+msgid "Custom Messages"
+msgstr "Mensajes personalizados"
+
+msgid "Admin Messages"
+msgstr "Los mensajes del administrador"
+
+msgid "Stylesheet"
+msgstr "Stylesheet"
+
+msgid "Contact"
+msgstr "Contacto"
+
+msgid "Add/Edit Message"
+msgstr "Agregar/Editar Mensaje"
+
+msgid "Back to Admin Messages"
+msgstr "Volver a los mensajes del administrador"
+
+msgid "Title"
+msgstr "Título"
+
+msgid "Subject"
+msgstr "Tema"
+
+msgid "Description"
+msgstr "Descripción"
+
+msgid "Available variables"
+msgstr "Variables disponibles"
+
+msgid "User's Display Name"
+msgstr "Nombre para mostrar del usuario"
+
+msgid "User's Name"
+msgstr "Nombre de Usuario"
+
+msgid "User's Email"
+msgstr "Correo electrónico del usuario"
+
+msgid "User's Password"
+msgstr "Contraseña de usuario"
+
+msgid "User's Activation URL"
+msgstr "URL de activación del usuario"
+
+msgid "User's Login URL"
+msgstr "URL de inicio de sesión del usuario"
+
+msgid "Site's Email"
+msgstr "Correo electrónico del sitio"
+
+msgid "Site's Title"
+msgstr "Título del sitio"
+
+msgid "Site's Web Address"
+msgstr "Dirección Web del sitio"
+
+msgid "Current Group List"
+msgstr "Lista de grupo actual"
+
+msgid "Current Group Name"
+msgstr "Nombre del grupo actual"
+
+msgid "Message has been added successfully."
+msgstr "Mensaje se ha agregado correctamente."
+
+msgid "Message has been updated successfully."
+msgstr "Mensaje se ha actualizado correctamente."
+
+msgid "Message has been set to visible successfully."
+msgstr "Mensaje ha sido configurada como visible con éxito."
+
+msgid "Message has been  set to hidden successfully."
+msgstr "Mensaje ha sido establecer como oculto con éxito."
+
+msgid "Message has been deleted successfully."
+msgstr "Mensaje se ha eliminado correctamente."
+
+msgid "New custom message"
+msgstr "Nuevo mensaje personalizado"
+
+msgid "Message"
+msgstr "Mensaje"
+
+msgid "Hidden/Visible"
+msgstr "Oculto/Visible"
+
+msgid "Visible"
+msgstr "Visible"
+
+msgid "Hidden"
+msgstr "Oculto"
+
+msgid "No Message Found!"
+msgstr "Se ha encontrado ningún mensaje!"
+
+msgid "Our Address"
+msgstr "Nuestra dirección"
+
+msgid "Support"
+msgstr "Apoyo"
+
+msgid "Override Form Style"
+msgstr "Estilo Formulario Anulación"
+
+msgid "Mailing Group Module Help (Version : %s)"
+msgstr "Grupo de Correo Ayuda del módulo (Versión: %s)"
+
+msgid "%1s out of %2s users have been imported successfully."
+msgstr "% 1S de % 2s los usuarios se han importado correctamente."
+
+msgid "Member(s) have been successfully added to selected groups."
+msgstr "Miembro(s) se han agregado correctamente a los grupos seleccionados."
+
+msgid "Subscription Request Manager"
+msgstr "Solicitud de Suscripción Manager"
+
+msgid "Add New Subscriber"
+msgstr "Añadir nuevo suscriptor"
+
+msgid "Import Users"
+msgstr "Importar Usuarios"
+
+msgid "Import Users from WordPress"
+msgstr "Importar usuarios de WordPress"
+
+msgid ""
+"Any users you import to a mailing group below will have their subscription "
+"activated immediately, without any opt-in confirmation sent to their email "
+"address. Please only import users as subscribers here if you have their "
+"permission already."
+msgstr ""
+"Cualquier usuario que importar a un grupo de correo a continuación tendrán "
+"su suscripción activa inmediatamente, sin ninguna cláusula de confirmación "
+"enviada a su dirección de correo electrónico. Por favor sólo importar "
+"usuarios como suscriptores aquí si tiene permiso ya."
+
+msgid "Name"
+msgstr "Nombre"
+
+msgid "There are currently no WordPress users available for import."
+msgstr ""
+"En la actualidad no hay WordPress los usuarios disponibles para la "
+"importación."
+
+msgid "Import Selected Users into:"
+msgstr "Importar Usuarios seleccionados:"
+
+msgid "Import from CSV file"
+msgstr "Importación de un archivo CSV"
+
+msgid "Browse CSV file"
+msgstr "Buscar archivo CSV"
+
+msgid ""
+"NB: The CSV file should be formatted as follows with no extra data, and each "
+"entry on a separate line:<br />Full Name, email@address.com"
+msgstr ""
+"NOTA: El archivo CSV debe tener el formato de la siguiente manera sin datos "
+"adicionales, y cada entrada en una línea separada:<br / >Nombre Completo, "
+"email@address.com"
+
+msgid "WordPress Mailing Group - v.%s"
+msgstr "Grupo de Correo WordPress - v. %s"
+
+msgid "Alert on new subscription"
+msgstr "Alerta en nueva suscripción"
+
+msgid "Subscription alert email"
+msgstr "Alerta por correo electrónico Suscripción"
+
+msgid "Email bounce alert"
+msgstr "Alerta correo electrónico rebote"
+
+msgid "No. of bounces prior to alert"
+msgstr "NO de rebota antes de alerta"
+
+msgid "Send bounce alert email to"
+msgstr "Enviar correo electrónico de alerta en rebote"
+
+msgid "Check Crons"
+msgstr "Verificar Crons"
+
+msgid "Update Mailing Group"
+msgstr "Grupo de Correo Actualización"
+
+msgid "Add Mailing Group"
+msgstr "Agregar grupo de correo"
+
+msgid "Add/Edit Mailing Group"
+msgstr "Agregar/Editar grupo de correo"
+
+msgid "Use name as prefix in email subject lines"
+msgstr ""
+"Utilice nombre como prefijo en las líneas de asunto del correo electrónico"
+
+msgid "Group Email Address"
+msgstr "Dirección de correo electrónico de grupo"
+
+msgid "Password"
+msgstr "Contraseña"
+
+msgid "POP Server"
+msgstr "Servidor POP"
+
+msgid "e.g. pop.mailserver.com"
+msgstr "Por ejemplo pop.mailserver.com"
+
+msgid "Port"
+msgstr "Puerto"
+
+msgid "SSL/Secure Connection"
+msgstr "SSL/Conexión segura"
+
+msgid "Username"
+msgstr "Usuario"
+
+msgid "e.g. smtp.mailserver.com"
+msgstr "Por ejemplo smtp.mailserver.com"
+
+msgid "Auto-delete old messages"
+msgstr "Eliminación automática de los mensajes antiguos"
+
+msgid "No"
+msgstr "No"
+
+msgid "Yes, after"
+msgstr "Sí, después"
+
+msgid "days"
+msgstr "Días"
+
+msgid "Footer text for emails"
+msgstr "Texto de pie de página para correos electrónicos"
+
+msgid "Settings for Subscription Request messages"
+msgstr "Configuración de mensajes de solicitud Suscripción"
+
+msgid "Sender name"
+msgstr "Nombre del remitente"
+
+msgid "Sender email"
+msgstr "Remitente de correo electrónico"
+
+msgid "Reply To"
+msgstr "Respuesta a"
+
+msgid "Mailing Group Status"
+msgstr "Grupo de Correo Estado"
+
+msgid "Status"
+msgstr "Estado"
+
+msgid "Active"
+msgstr "Activo"
+
+msgid "Visibility"
+msgstr "Visibilidad"
+
+msgid "Inactive"
+msgstr "\"Inactivo\""
+
+msgid "Public"
+msgstr "Público"
+
+msgid "Invitation"
+msgstr "Invitación"
+
+msgid "Private"
+msgstr "Privado"
+
+msgid "Approve"
+msgstr "Aprobar"
+
+msgid "Delete"
+msgstr "Eliminar"
+
+msgid "No new subscription requests"
+msgstr "No hay nuevas solicitudes de suscripción"
+
+msgid "Add Subscriber"
+msgstr "Agregar suscriptor"
+
+msgid "Email Format"
+msgstr "Formato de correo electrónico"
+
+msgid "Mailing Group(s)"
+msgstr "Grupo de Correo(s)"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "Plain Text"
+msgstr "Texto sin formato"
+
+msgid ""
+"You can only add 20 member(s) per group, Please upgrade to paid version for "
+"more features."
+msgstr ""
+"Sólo puede agregar 20 miembro(s) por grupo, por favor, actualice a versiã³n "
+"de pago de más características."
+
+msgid "The username entered already exists in the system."
+msgstr "El nombre de usuario introducido ya existe en el sistema."
+
+msgid "The email entered already exists in the system."
+msgstr "El correo electrónico introducido ya existe en el sistema."
+
+msgid "Please enter username or email to proceed."
+msgstr "Introduzca el nombre de usuario o correo electrónico para proceder."
+
+msgid "Please enter username to proceed."
+msgstr "Introduzca el nombre de usuario para continuar."
+
+msgid "Member has been unsubcribed from the group."
+msgstr "Ha sido miembro del grupo unsubcribed."
+
+msgid "Please enter username to check."
+msgstr "Introduzca el nombre de usuario."
+
+msgid "Username is available."
+msgstr "Usuario está disponible."
+
+msgid "Username is not available, please try again."
+msgstr "Usuario no está disponible, por favor inténtelo de nuevo."
+
+msgid "No of Email Bounces"
+msgstr "No Rebotes de correo electrónico"
+
+msgid "click to put On Hold"
+msgstr "Haga clic en poner en espera"
+
+msgid "On Hold"
+msgstr "En Espera"
+
+msgid "click to Activate"
+msgstr "Haga clic para activar"
+
+msgid "Select Message"
+msgstr "Seleccione el mensaje"
+
+msgid "New Message"
+msgstr "Nuevo mensaje"
+
+msgid "Please click on below icons to manage the content."
+msgstr ""
+"Por favor, haga clic en iconos siguientes para administrar el contenido."
+
+msgid "User with email address already exists"
+msgstr "Usuario con una dirección de correo electrónico ya existe"
+
+msgid "Invalid captcha code, Please try again."
+msgstr "Código captcha no válida, por favor, inténtelo de nuevo."
+
+msgid "Dear Admin"
+msgstr "Estimado Admin"
+
+msgid ""
+"A user has exceeded the bounced email limit on %s! Here are the user details:"
+msgstr ""
+"Un usuario ha sobrepasado el límite correo electrónico rebotado en %s. Aquí "
+"están los detalles del usuario:"
+
+msgid "Username: %s"
+msgstr "Usuario: %s"
+
+msgid "Email Address: %s"
+msgstr "Dirección de correo electrónico: %s"
+
+msgid "Thank you!"
+msgstr "Muchas Gracias!"
+
+msgid "Choose Mailing Function"
+msgstr "Elegir Función Correo"
+
+msgid "WP Mail"
+msgstr "WP Correo Electrónico"
+
+msgid "SMTP Mail"
+msgstr "Correo electrónico SMTP"
+
+msgid "PHP Mail"
+msgstr "PHP Mail"
+
+msgid "Dear Admin,"
+msgstr "Estimado Admin,"
